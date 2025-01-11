@@ -1,0 +1,16 @@
+{
+  "name": "@jcoreio/toolchain-monorepo-test",
+  "description": "test monorepo for @jcoreio/toolchain",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcoreio/toolchain-monorepo-test.git"
+  },
+  "author": "Andy Edwards",
+  "license": "MIT",
+  "keywords": [
+    ""
+  ],
+  "devDependencies": {
+    "@jcoreio/toolchain": "4.6.0"
+  }
+}
